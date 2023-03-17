@@ -1,6 +1,6 @@
 bucket_name = "mm-sftp-service1"
-sftp_hostname = "sftp.nave.com" #"sftp.markmonitor.com"
-hosted_zone_name = "nave.com" #"markmonitor.com."
+sftp_hostname = "sftp.markmonitor.com"
+hosted_zone_name = "markmonitor.com."
 
 sftp_users = {
     "novartis_dev"              = { user_name = "novartis_dev"
